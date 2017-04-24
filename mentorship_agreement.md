@@ -1,4 +1,4 @@
-#Summer Mentor Plan
+# Summer Mentor Plan
 
 *(Version 1.0; Feb, 2017)*
 
