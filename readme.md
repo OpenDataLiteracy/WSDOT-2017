@@ -1,0 +1,3 @@
+This project, a collaboration between the [Open Data Literacy](http://odl.ischool.uw.edu/) @ UW iSchool and the [Washington State Department of Transportation](http://www.wsdot.wa.gov/), is focused on defining requirements for documenting open data sets in the department's data catalog, the Data or Term Search (DOTS) tool. DOTS currently collects an inventory of databases and lists the types of data objects they story (databases, tables, columns, and views). There is no facility for documenting data products, like open data sets, that are derived from databases. An open data set may be a subset of one data source, or may comprise data from multiple sources. 
+
+This project will investigate and propose revisions to DOTS to accommodate open data sets.
