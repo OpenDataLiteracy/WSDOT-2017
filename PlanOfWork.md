@@ -18,8 +18,10 @@ What is this project supposed to achieve, and why?
 What will this project produce? This should include items like software, data, metadata schemas, models or figures, and documentation. 
 
 *Interim*     
+- Deliverables that will be completed throughout the project
 
 *End of project*
+- A Final deliverable that will be completed at the end of the project (Many interim deliverables will likely add up to a final deliverable)
 
 **Plan for Sustainability**       
 Describe how you will manage deliverables during the project and the plan for handing over, and sustaining deliverables over time. 
